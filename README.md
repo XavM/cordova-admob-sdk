@@ -4,6 +4,11 @@
 
 This plugin is intended to be a dependency of other plugins.
 
+## Credits 
+
+  - [ratson](https://github.com/ratson/cordova-plugin-admob-free)
+  - [jarodms](https://github.com/jarodms/cordova-admob-sdk)
+
 ## Dependents
 
 * [cordova-plugin-admob-free](https://www.npmjs.com/package/cordova-plugin-admob-free)
