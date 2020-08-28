@@ -1,0 +1,37 @@
+{
+  "name": "cordova-admob-sdk",
+  "version": "1.0.1",
+  "description": "Google AdMob SDK to Cordova v7.64.0",
+  "scripts": {
+  },
+  "devDependencies": {
+  },
+  "cordova": {
+    "id": "cordova-admob-sdk",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": "https://github.com/XavM/cordova-admob-sdk",
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "ad",
+    "admob",
+    "google",
+    "sdk"
+  ],
+  "author": "XavM",
+  "license": "MIT",
+  "files": [
+    "*.js",
+    "*.md",
+    "*.xml",
+    "LICENSE",
+    "src",
+    "www"
+  ]
+}
